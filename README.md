@@ -1,4 +1,4 @@
-# GAMS
+### Power Market Project
 ####Nordic Market Simulation
 
 The day-ahead electricity spot market, Elspot, is the main platform to trade electricity in the Nordic region. Here, electricity suppliers and buyers place their bids a day in advance for delivery of electricity during the next day. In this exercise, you will simulate such a market, but with a few simplifications and assumptions as follows:
